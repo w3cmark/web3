@@ -16,6 +16,11 @@
 
 ## 元宇宙
 
+## 区块链
+
++ [Avalanche链详解](https://zhuanlan.zhihu.com/p/419778767)
+
+
 ## crypto
 
 ## NFT
